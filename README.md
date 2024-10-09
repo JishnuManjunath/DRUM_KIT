@@ -1,1 +1,1 @@
-# DRUM_KIT
+This project is a virtual drum kit application that allows users to play various drum sounds using their keyboard or mouse. It simulates the experience of playing a physical drum set, with each key corresponding to a different drum or cymbal. The project uses HTML, CSS, and JavaScript to create an interactive, visually appealing user interface. Whether you're a musician looking for a quick way to jam or just want to have fun with beats, this drum kit is designed to be easy to use and responsive across devices.
